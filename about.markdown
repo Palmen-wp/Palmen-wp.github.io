@@ -4,7 +4,8 @@ title: About me
 permalink: /about-me/
 ---
 
-My name is Simon Palm I am 21 years old, I am a professional developer.
+My name is Simon Palm I am 21 years old and my goal is to become a professional developer.
+My intrests are snowboarding, training and gaming. 
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
