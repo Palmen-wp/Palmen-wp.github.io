@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About me
+permalink: /about-me/
 ---
 
-simon heter jag
-s
+My name is Simon Palm I am 21 years old, I am a professional developer.
