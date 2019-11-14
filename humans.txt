@@ -1,0 +1,13 @@
+# humanstext.org
+
+# TEAM
+
+Name: Simon Palm
+Site: email, sp222ym@student.lnu.se
+GitHub: http://Palmen-wp.github.io
+Location: Kalmar, Sweden
+
+# THANKS
+
+Name: https://www.robotstxt.org/
+Name: http://humanstxt.org/Standard.html
