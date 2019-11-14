@@ -18,14 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Contact information
+title: Simon Palm
 email: sp222ym@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
- Welcome to one of the most intresstig sites ever, here you will learn about me and see my blog posts.
+ Welcome to one of the most intressting site ever, here you will learn about me and see my blog posts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: No twitter_username yet
 github_username: sp222ym
+disqus:
+  shortname: simonpalm
 
 # Build settings
 theme: minima
