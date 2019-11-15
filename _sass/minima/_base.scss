@@ -73,6 +73,8 @@ main {
   width: $content-width;
   text-align: center;
   margin: 0 auto;
+  background-color: $grey-color-dark;
+  opacity: 80%;
   /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
@@ -301,8 +303,9 @@ body {
 
 
   footer {
-    background-color: $grey-color-light;
-    opacity: 80%;
+  background-color: $grey-color-dark;
+  margin:0 auto;
+  opacity: 80%;
   }
 
   .u-url {
