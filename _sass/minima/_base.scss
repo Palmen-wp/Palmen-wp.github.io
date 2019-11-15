@@ -29,7 +29,6 @@ figure {
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
-  background-color: $background-color;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern"1;
   -moz-font-feature-settings: "kern"1;
@@ -39,6 +38,11 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  background-image: url("../../image/Kanno.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-image:cover;
+  background-color: $grey-color-dark;
 }
 
 
@@ -294,25 +298,12 @@ table {
   }
 }
 
-// My css
-
-body {
-  background-image: url("../../image/Kanno.jpg");
-  background-repeat: no-repeat;
-  background-size: 100%;
-
-
-  footer {
-  background-color: $grey-color-dark;
-  margin:0 auto;
-  opacity: 80%;
-  }
+// my css
 
   .u-url {
     padding: 4px;
     color: brown;
   
   }
-  
-}
+
 
