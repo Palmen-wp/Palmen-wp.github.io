@@ -2,7 +2,6 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
     padding: 20px;
@@ -112,6 +111,9 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  opacity: 80%;
+  background-color: $grey-color-dark;
+  margin: 0 auto;
 }
 
 .footer-heading {
@@ -127,7 +129,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  color:black;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -179,10 +181,6 @@
 /**
  * Page content
  */
-.page-content {
-  padding: $spacing-unit 0;
-  flex: 1;
-}
 
 .page-heading {
   @include relative-font-size(2);
