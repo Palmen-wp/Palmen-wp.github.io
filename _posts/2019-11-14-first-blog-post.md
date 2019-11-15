@@ -6,4 +6,4 @@ comments: true
 
 # Topic one
 
-**Pre-compiling CSS**
+**What do you think of pre-compiling your CSS?**
