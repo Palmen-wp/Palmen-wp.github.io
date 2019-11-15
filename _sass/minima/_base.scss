@@ -35,16 +35,13 @@ body {
   -o-font-feature-settings: "kern"1;
   font-feature-settings: "kern"1;
   font-kerning: normal;
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
   background-image: url("../../image/Kanno.jpg");
   background-repeat: no-repeat;
-  background-size: 100%;
-  background-image:cover;
+  background-size: cover;
   background-color: $grey-color-dark;
+  background-position: center;
+  
 }
-
 
 
 /**
@@ -73,7 +70,7 @@ figure,
  * `main` element
  */
 main {
-  display: block;
+  flex: 1;
   width: $content-width;
   text-align: center;
   margin: 0 auto;
