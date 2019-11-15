@@ -70,6 +70,9 @@ figure,
  */
 main {
   display: block;
+  width: $content-width;
+  text-align: center;
+  margin: 0 auto;
   /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
@@ -134,7 +137,7 @@ h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: $text-color;
   text-decoration: none;
 
   &:visited {
@@ -142,7 +145,7 @@ a {
   }
 
   &:hover {
-    color: $text-color;
+    color: red;
     text-decoration: underline;
   }
 
@@ -291,26 +294,21 @@ table {
 
 // My css
 
-
 body {
   background-image: url("../../image/Kanno.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
 
-  header {
-    padding: 20px;
-    background-color: $grey-color-light;
-    opacity: 80%;
-  }
 
   footer {
     background-color: $grey-color-light;
     opacity: 80%;
   }
 
-  .post-content {
-  color: $text-color;
-  font-family: Verdana, Geneva, Tahoma, sans-serif
+  .u-url {
+    padding: 4px;
+    color: brown;
+  
   }
   
 }
