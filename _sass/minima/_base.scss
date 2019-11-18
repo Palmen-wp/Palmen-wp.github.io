@@ -38,9 +38,10 @@ body {
   background-image: url("../../image/Kanno.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: $grey-color-dark;
   background-position: center;
-  
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
 }
 
 
@@ -294,13 +295,3 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
-
-// my css
-
-  .u-url {
-    padding: 4px;
-    color: brown;
-  
-  }
-
-
