@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is humans.txt and how have you configure it for your site?"
-date: 2019-11-14 11:50:10 +0100
+date: 2019-11-18 11:50:10 +0100
 categories: Post
 comments: true
 ---

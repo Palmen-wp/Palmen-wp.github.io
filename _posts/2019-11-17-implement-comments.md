@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How did you implements comments to blog posts"
-date:   2019-11-14 13:44:28 +0100
+date:   2019-11-18 13:44:28 +0100
 categories: Post
 comments: true
 ---

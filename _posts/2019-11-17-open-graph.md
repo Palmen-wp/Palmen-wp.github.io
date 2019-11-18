@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Open Graph and how do you make use of it?"
-date: 2019-11-12 13:50:10 +0100
+date: 2019-11-18 13:50:10 +0100
 categories: Post
 comments: true
 ---
