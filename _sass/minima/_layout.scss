@@ -113,7 +113,11 @@
   padding: $spacing-unit 0;
   opacity: 80%;
   background-color: $grey-color-dark;
-  margin: 0 auto;
+
+ clear: both;
+ position: relative;
+ margin-top:250px;
+ border-color: $orange-color;
 }
 
 .footer-heading {
