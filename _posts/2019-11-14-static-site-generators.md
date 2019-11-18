@@ -2,6 +2,7 @@
 layout: post
 title: "What do you think of static site generators?"
 date:   2019-11-14 11:50:10 +0100
+categories: Post
 comments: true
 ---
 

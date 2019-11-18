@@ -2,6 +2,7 @@
 layout: post
 title: "What do you think of pre-compiling your CSS?"
 date:   2019-11-14 09:44:30 +0100
+categories: Post
 comments: true
 ---
 

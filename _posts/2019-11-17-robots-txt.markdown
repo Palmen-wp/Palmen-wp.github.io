@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "What is robots.txt and how have you configure it for your site?"
-date: 2019-11-17 11:50:10 +0100
+date: 2019-11-14 11:50:10 +0100
+categories: Post
 comments: true
 ---
 
