@@ -10,4 +10,10 @@ Pre-compiling CSS is more practical becuse you can use a variable for a specific
 
 # Which techniques did you use? 
 
-I have tried to use some techniques  
+I have used variables for my some of my colors and I have used nestling in my SCSS. 
+<hr>
+
+# Pros and cons?
+
+I think there are more pros then cons with pre-compiled CSS. It reduces the typing of code because you can reuse it in variables and don't breake the DRY principle. There is a problem debugging because the code line-numbers are not same in the source code.
+
